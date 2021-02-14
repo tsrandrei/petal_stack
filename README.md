@@ -9,6 +9,5 @@ As usual start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-![petal_demo](https://github.com/tsrandrei/petal_stack/tree/main/demo/petal_demo.png)
-Format: ![Alt Text](url)
+<img style="float: right;" src="https://github.com/tsrandrei/petal_stack/tree/main/demo/petal_demo.png">
 

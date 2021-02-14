@@ -7,6 +7,14 @@
 @import "../node_modules/nprogress/nprogress.css";
 
 @layer components {
+  .phx-modal {
+    //@apply ;
+    @apply bg-black bg-opacity-50 absolute top-0 left-0 flex items-center justify-center w-full h-full shadow overflow-hidden sm:rounded-md bg-fixed;
+  }
+  .phx-modal-content {
+    @apply h-auto text-left bg-white rounded shadow-xl md:max-w-xl bg-white;
+  }
+  .phx-modal-close {}
   .navbar {
     @apply bg-gray-800;
   }
